@@ -92,6 +92,7 @@ summary(lm(mpg ~ vehicle_length + ground_clearance, data=mechaCar_mpg))
 
 
 
+
 # Deliverable #2 
 #Technical Analysis 
 
